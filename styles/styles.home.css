@@ -74,7 +74,7 @@
 }
 
 .home-photo {
-  background-image: url("./imgs/avatar.jpg");
+  background-image: url("../imgs/avatar.jpg");
   width: 400px;
   height: 450px;
   background-repeat: no-repeat;
