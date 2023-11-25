@@ -1,0 +1,6 @@
+/* Import all styles  */
+
+@import url("./styles.colors.css");
+@import url("./styles.background.css");
+@import url("./styles.home.css");
+@import url("./styles.contacts.css");
